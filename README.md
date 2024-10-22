@@ -22,13 +22,22 @@
   <h3 align="left">Connect with me:</h3>
   
   <p align="left">
-    <a href="https://linkedin.com/in/www.linkedin.com/in/software-enginner-vikash" target="_blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn profile" height="40" width="50" />
-    </a> 
-      
-  <a href="https://vikashmernportfolio.up.railway.app/" target="_blank">
-          <img align="center" src="https://github.com/user-attachments/assets/2537f596-026d-43ef-8d32-f27b3e52c9e1" alt="Portfolio Profile" height="40" width="50" />
-    </a>
+<table>
+  <tr>
+    <td>
+      <a href="https://vikashmernportfolio.up.railway.app/" target="_blank">
+        <img src="https://github.com/user-attachments/assets/2537f596-026d-43ef-8d32-f27b3e52c9e1" alt="Portfolio Profile" height="40" width="50" />
+      </a>
+    </td>
+    <td>&nbsp;&nbsp;&nbsp;</td> <!-- Adjust spacing here -->
+    <td>
+      <a href="https://linkedin.com/in/www.linkedin.com/in/software-enginner-vikash" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn profile" height="40" width="50" />
+      </a>
+    </td>
+  </tr>
+</table>
+
   </p>
 
   
