@@ -54,7 +54,7 @@
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=vikash55kumar&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 </div>
 
-<h1 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h1>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
         <img src="https://skillicons.dev/icons?i=nodejs,javascript,react,express,mongodb,java,aws,next,python" /><br/>
@@ -62,7 +62,11 @@
 <br>
     <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikash55kumar&show_icons=true&locale=en&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
+<br/>
 
+<h2 align="center"> Badges </h2>
+
+[![An image of @vikashkr's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vikashkr)](https://holopin.io/@vikashkr)
 
 
 
