@@ -12,7 +12,7 @@
     <td align="left" >
       <p>
           
-- 👨‍💻 All of my projects are available at [https://vikashmernportfolio.up.railway.app/](https://vikashmernportfolio.up.railway.app/)
+- 👨‍💻 All of my projects are available at [https://vikashmernportfolio.up.railway.app/](https://mernportfoliovikash.netlify.app)
           
 - 🌱 I’m currently learning **AWS, NEXT.js**
   
