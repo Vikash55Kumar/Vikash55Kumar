@@ -12,7 +12,7 @@
     <td align="left" >
       <p>
           
-- 👨‍💻 All of my projects are available at [https://mernportfoliovikash.netlify.app](https://mernportfoliovikash.netlify.app)
+- 👨‍💻 All of my projects are available at [https://mernportfoliovikash.netlify.app](https://portfolio.ecovix.online)
           
 - 🌱 I’m currently learning **AWS, NEXT.js**
   
