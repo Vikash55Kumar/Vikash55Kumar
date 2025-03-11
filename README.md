@@ -25,7 +25,7 @@
 <table>
   <tr>
     <td>
-      <a href="https://mernportfoliovikash.netlify.app" target="_blank">
+      <a href="https://portfolio.ecovix.online" target="_blank">
         <img src="https://github.com/user-attachments/assets/2537f596-026d-43ef-8d32-f27b3e52c9e1" alt="Portfolio Profile" height="40" width="50" />
       </a>
     </td>
