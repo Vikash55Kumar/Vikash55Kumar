@@ -12,7 +12,7 @@
     <td align="left" >
       <p>
           
-- 👨‍💻 All of my projects are available at [https://portfolio.ecovix.online](https://portfolio.ecovix.online)
+- 👨‍💻 All of my projects are available at [Portfolio](https://portfolio.vikashkr.online)
           
 - 🌱 I’m currently learning **AWS, NEXT.js**
   
